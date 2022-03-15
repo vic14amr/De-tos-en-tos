@@ -2,7 +2,7 @@
 
 # Proyecto Storytelling (template): De tos en tos
 
-Nombre del Equipo: 
+Nombre del Equipo: Las toses
 
 Proyecto (código): 07-2022
 
