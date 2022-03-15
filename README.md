@@ -1,10 +1,10 @@
 
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling (template): De tos en tos
 
 Nombre del Equipo: 
 
-Proyecto (código): 
+Proyecto (código): 07-2022
 
 
 ## Resumen
